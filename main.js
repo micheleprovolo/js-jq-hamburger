@@ -5,9 +5,9 @@ $( ".header-right > a" ).show();
 
 $( ".header-right > a" ).click(function() {
     $( ".hamburger-menu" ).show();
-})
-//$( ".hamburger-menu" ).show();
+});
+
 
 $( ".close" ).click(function() {
     $( ".hamburger-menu" ).hide();
-})
+});
